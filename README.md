@@ -21,3 +21,5 @@ Site do Culturama, plataforma de divulgação e informativos sobre eventos cultu
 <br>
 
 **Curso:** [PRATICANDO CSS: GRID E FLEXBOX](https://cursos.alura.com.br/certificate/7ea4b5a2-4bc4-4420-ac8a-12d7db783753).
+
+**Figma:** [Culturama](https://www.figma.com/file/NEmdnUMREq3FiYLa1JF0wO/2713---Praticando-CSS%3A-Grid-e-Flexbox-(Copy)?node-id=165-851&t=7qUuudpgG9juMQmM-0)
